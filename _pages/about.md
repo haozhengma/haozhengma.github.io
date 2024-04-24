@@ -45,3 +45,7 @@ Undergoing Review, IEEE Journal of Selected Topics in Applied Earth Observations
 **Beijing Jiaotong University** 9/2018-6/2022
 - Bachelor of Engineering, Electrical Engineering, GPA: 3.8/4.0
 - Bachelor of Economics (Double Bachelor Degree), Finance  
+
+# 💻 Internships
+- *2022.03 - 2022.08*, Beijing Shenguang Technology Co., Ltd, Hardware Engineer, Intern, Shenzhen and Beijing, China.
+- *2019.07 - 2019.08*, Chipone Technology (Beijing) Co, Ltd, Software Engineer, Intern, Beijing, China.
