@@ -21,12 +21,9 @@ I am a master's student from school of [Computer Science](https://cs.cug.edu.cn/
 
 I am advised by [Prof, Lizhe Wang](https://0-scholar-google-com.brum.beds.ac.uk/citations?user=F6QzRGAAAAAJ&hl=pl) from [School of Computer Science]((https://cs.cug.edu.cn/)).
 
-My research interest includes neural machine translation and computer vision. I have published more than 100 papers at the top international AI conferences with total <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'>google scholar citations <strong><span id='total_cit'>260000+</span></strong></a> (You can also use google scholar badge <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>).
-
-
 # 📝 Publications 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2016</div><img src='images/WSEDM500300.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">2024</div><img src='images/WSEDM500300.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [Refined Water-Body Types Mapping Using a Water-Scene Enhancement Deep Models by Fusing Optical and SAR Images]
