@@ -35,8 +35,8 @@ Undergoing Review, IEEE Journal of Selected Topics in Applied Earth Observations
 </div>
 
 # 🎖 Honors and Awards
-- *2021.10* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2021.09* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+- 2022 Innovation and Entrepreneurship Star from Beijing Jiaotong University(10 out of the BJTU).
+- 2018~2021Three times Academic Scholarship from Beijing Jiaotong University(top 10%).
 
 # 📖 Educations
 **China University of Geosciences,Wuhan** 9/2022-present
