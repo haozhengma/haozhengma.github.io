@@ -35,6 +35,7 @@ Undergoing Review, IEEE Journal of Selected Topics in Applied Earth Observations
 </div>
 
 # 🎖 Honors and Awards
+- 2022 Beijing Jiaotong University Excellent Graduation Thesis(top 5%).
 - 2022 Innovation and Entrepreneurship Star from Beijing Jiaotong University(10 out of the BJTU).
 - 2018~2021Three times Academic Scholarship from Beijing Jiaotong University(top 10%).
 
