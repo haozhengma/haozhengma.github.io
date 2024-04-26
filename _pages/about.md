@@ -35,9 +35,10 @@ Undergoing Review, IEEE Journal of Selected Topics in Applied Earth Observations
 </div>
 
 # 🎖 Honors and Awards
+- 2022~2023 Two times First class Academic Scholarship from China University of Geoscience, Wuhan.
 - 2022 Beijing Jiaotong University Excellent Graduation Thesis(top 5%).
 - 2022 Innovation and Entrepreneurship Star from Beijing Jiaotong University(10 out of the BJTU).
-- 2018~2021Three times Academic Scholarship from Beijing Jiaotong University(top 10%).
+- 2018~2021 Three times Academic Scholarship from Beijing Jiaotong University(top 10%).
 
 # 📖 Educations
 **China University of Geosciences,Wuhan** 9/2022-present
