@@ -22,6 +22,14 @@ I am a master's student from school of [Computer Science](https://cs.cug.edu.cn/
 I am advised by [Prof, Lizhe Wang](https://0-scholar-google-com.brum.beds.ac.uk/citations?user=F6QzRGAAAAAJ&hl=pl) from [School of Computer Science]((https://cs.cug.edu.cn/)).
 
 # 📝 Publications 
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">2024</div><img src='images/CRFNet500300.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[Cross-Modal Channel Feature Fusion Network for Off-Road Trafficability Assessment with Remote Sensing Images and Incomplete Ancillary Data]
+
+Kang He, Yusen Dong, Zhijun Zhang, **Haozheng Ma**, Runyu Fan, and Lizhe Wang
+</div>
+</div>
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">2024</div><img src='images/WSEDM500300.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
