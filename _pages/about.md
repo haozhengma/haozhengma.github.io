@@ -25,9 +25,11 @@ I am advised by [Prof, Lizhe Wang](https://0-scholar-google-com.brum.beds.ac.uk/
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">2024</div><img src='images/CRFNet500300.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[Cross-Modal Channel Feature Fusion Network for Off-Road Trafficability Assessment with Remote Sensing Images and Incomplete Ancillary Data]
+[Off-Road Trafficability Assessment with Remote Sensing Images and Incomplete Geographical and Geological Data via a Cross-Modal Channel Feature Fusion Network]
 
 Kang He, Yusen Dong, Zhijun Zhang, **Haozheng Ma**, Runyu Fan, and Lizhe Wang
+
+Undergoing Review, International Journal of Applied Earth Observation and Geoinformationg(SCI, IF=7.5)
 </div>
 </div>
 
