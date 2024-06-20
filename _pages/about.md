@@ -29,7 +29,7 @@ I am advised by [Prof, Lizhe Wang](https://0-scholar-google-com.brum.beds.ac.uk/
 
 Kang He, Yusen Dong, Zhijun Zhang, **Haozheng Ma**, Runyu Fan, and Lizhe Wang
 
-Undergoing Review, International Journal of Applied Earth Observation and Geoinformationg(SCI, IF=7.5)
+Undergoing Review, IEEE TRANSACTIONS ON GEOSCIENCE AND REMOTE SENSING(SCI, IF=8.2)
 </div>
 </div>
 
