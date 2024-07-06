@@ -57,8 +57,8 @@ Undergoing Review(Major revision), IEEE Journal of Selected Topics in Applied Ea
 </div>
 
 # <svg t="1720273725152" class="icon" viewBox="0 0 1024 1024" version="1.1" xmlns="http://www.w3.org/2000/svg" p-id="1523" width="200" height="200"><path d="M98.3 540.2l2.3 2.1 345.3 189.1c17.6 14.7 40.5 22.8 64.6 22.8 24.1 0 47-8.1 64.6-22.8l344.8-188.8 0.5-0.3 2.3-2.1c34.8-31.3 39-82 9.8-118-1.7-2.1-4.9-2.5-7-0.7l-33.7 27.4c-2.1 1.7-2.5 4.9-0.7 7 10.6 13 9.7 30.5-2.1 42.7L544.7 687.1l-0.5 0.3-2.3 2.1c-17 15.3-45.8 15.3-62.8 0l-2.3-2.1-344.7-188.8c-11.8-12.2-12.7-29.7-2.1-42.7 1.7-2.1 1.4-5.3-0.7-7l-33.7-27.4c-2.1-1.7-5.3-1.4-7 0.7-29.4 35.9-25.1 86.7 9.7 118z" fill="#424242" p-id="1524"></path><path d="M925.5 608.3l-33.7 27.4c-2.1 1.7-2.5 4.9-0.7 7 10.6 13 9.7 30.5-2.1 42.7L544.7 873.9l-0.5 0.3-2.3 2.1c-17 15.3-45.8 15.3-62.8 0l-2.3-2.1-344.7-188.8c-11.8-12.2-12.7-29.7-2.1-42.7 1.7-2.1 1.4-5.3-0.7-7l-33.7-27.4c-2.1-1.7-5.3-1.4-7 0.7-29.2 35.9-25 86.7 9.8 118l2.3 2.1L446 918.2c17.6 14.7 40.5 22.8 64.6 22.8 24.1 0 47-8.1 64.6-22.8L920 729.4l0.5-0.3 2.3-2.1c34.8-31.3 39-82 9.8-118-1.8-2.1-4.9-2.5-7.1-0.7zM116.1 372.6l54.5 29.8 290.6 159.1c27.2 24.5 71.4 24.5 98.6 0l290.6-159.1 54.5-29.8c2.6-2.3 4.9-4.8 7-7.4 19.9-24.5 17.7-59.1-7-81.3L559.8 99.3c-27.2-24.5-71.4-24.5-98.6 0L116.1 283.9c-24.6 22.2-26.9 56.7-7 81.3 2.2 2.6 4.4 5.1 7 7.4z" fill="#424242" p-id="1525" data-spm-anchor-id="a313x.search_index.0.i0.224b3a81sRceeH" class="selected"></path></svg> Research projects
-- 2023-2024 Big data of geological environment supports the achievement of sustainable development goals(CBAS2023ORP03)
-- 2023-2024 Intelligent interpretation of geological environment remote sensing big data(Hubei Provincial Natural Science Foundation Key Project)
+- 2023~2024 "Big data of geological environment supports the achievement of sustainable development goals"(CBAS2023ORP03). Responsible for research on long-term time series mapping of multiple types of water bodies.
+- 2023~2024 Intelligent interpretation of geological environment remote sensing big data(Hubei Provincial Natural Science Foundation Key Project). Responsible for research on time series water body mapping.
 
 # 🎖 Honors and Awards
 - 2022~2023 Two times First class Academic Scholarship from China University of Geoscience, Wuhan.
@@ -76,4 +76,4 @@ Undergoing Review(Major revision), IEEE Journal of Selected Topics in Applied Ea
 
 # 💻 Internships
 - *2022.03 - 2022.08*, Beijing Shenguang Technology Co., Ltd, Hardware Engineer, Intern, Shenzhen and Beijing, China.
-- *2019.07 - 2019.08*, Chipone Technology (Beijing) Co, Ltd, Software Engineer, Intern, Beijing, China.
+- *2019.07 - 2019.08*, Chipone Technology (Beijing) Co., Ltd, Software Engineer, Intern, Beijing, China.
