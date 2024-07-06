@@ -51,7 +51,7 @@ Undergoing Review, IEEE TRANSACTIONS ON GEOSCIENCE AND REMOTE SENSING(SCI, IF=8.
 
 **Haozheng Ma**, Xiaohong Yang, Runyu Fan, Wei Han, Kang He and Lizhe Wang
 
-Undergoing Review, IEEE Journal of Selected Topics in Applied Earth Observations and Remote Sensing(SCI, IF=5.5)
+Undergoing Review(Major revision), IEEE Journal of Selected Topics in Applied Earth Observations and Remote Sensing(SCI, IF=5.5)
 </div>
 </div>
 
