@@ -22,7 +22,7 @@ I am a master's student from school of [Computer Science](https://cs.cug.edu.cn/
 I am advised by [Prof, Lizhe Wang](https://0-scholar-google-com.brum.beds.ac.uk/citations?user=F6QzRGAAAAAJ&hl=pl) from [School of Computer Science]((https://cs.cug.edu.cn/)).
 
 # 📝 Publications 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">2024</div><img src='images/map500300' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">2024</div><img src='images/map500300.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [Deep learning-based multiple water cover types mapping in urban agglomeration scale from 1990 to 2023]
