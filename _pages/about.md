@@ -27,7 +27,7 @@ I am advised by [Prof, Lizhe Wang](https://0-scholar-google-com.brum.beds.ac.uk/
 
 [Area boom for artificial water bodies revealed by long-term high-precision satellite mapping]
 
-**Haozheng Ma** and Lizhe Wang
+**Haozheng Ma**, Lizhe Wang, Xiaohong Yang, Runyu Fan and Kang He
 
 Manuscript received, Nature Sustainability
 </div>
