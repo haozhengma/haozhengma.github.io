@@ -25,12 +25,11 @@ I am advised by [Prof, Lizhe Wang](https://0-scholar-google-com.brum.beds.ac.uk/
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">2024</div><img src='images/map500300.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[Deep learning-based multiple water cover types mapping in urban agglomeration scale from 1990 to 2023]
+[Area boom for artificial water bodies revealed by long-term high-precision satellite mapping]
 
 **Haozheng Ma** and Lizhe Wang
 
-
-Pending submission
+Manuscript received, Nature Sustainability
 </div>
 </div>
 
