@@ -22,12 +22,24 @@ I am a master's student from school of [Computer Science](https://cs.cug.edu.cn/
 I am advised by [Prof, Lizhe Wang](https://0-scholar-google-com.brum.beds.ac.uk/citations?user=F6QzRGAAAAAJ&hl=pl) from [School of Computer Science]((https://cs.cug.edu.cn/)).
 
 # 📝 Publications 
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">2024</div><img src='images/WSEDM500300.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[Refined Water-Body Types Mapping Using a Water-Scene Enhancement Deep Models by Fusing Optical and SAR Images]
+
+**Haozheng Ma**, Xiaohong Yang, Runyu Fan, Wei Han, Kang He and Lizhe Wang*
+
+Accepted, IEEE Journal of Selected Topics in Applied Earth Observations and Remote Sensing(SCI, IF=4.7)
+</div>
+</div>
+
+
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">2024</div><img src='images/map500300.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [Area boom for artificial water bodies revealed by long-term high-precision satellite mapping]
 
-**Haozheng Ma**, Lizhe Wang, Xiaohong Yang, Runyu Fan and Kang He
+**Haozheng Ma**, Lizhe Wang*, Xiaohong Yang, Runyu Fan and Kang He
 
 Pending Submission
 </div>
@@ -44,14 +56,14 @@ Undergoing Review, IEEE TRANSACTIONS ON GEOSCIENCE AND REMOTE SENSING(SCI, IF=8.
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">2024</div><img src='images/WSEDM500300.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">2024</div><img src='images/CRFNet500300.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[Refined Water-Body Types Mapping Using a Water-Scene Enhancement Deep Models by Fusing Optical and SAR Images]
+[Socioeconomic disparities strongly affect the inequalities in human exposure to open space among global megacities]
 
-**Haozheng Ma**, Xiaohong Yang, Runyu Fan, Wei Han, Kang He and Lizhe Wang
+Runyu Fan, Lizhe Wang*, Haoyu Wang, Wenyue Li, Zijian Xu, Zhaoying Zhou, **Haozheng Ma**, and Ruyi Feng
 
-Undergoing Review(Minor revision), IEEE Journal of Selected Topics in Applied Earth Observations and Remote Sensing(SCI, IF=5.5)
+Undergoing Review, npj Urban Sustainability(SCI, IF=9.1)
 </div>
 </div>
 
