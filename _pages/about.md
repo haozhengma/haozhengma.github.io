@@ -29,7 +29,7 @@ I am advised by [Prof, Lizhe Wang](https://scholar.google.com/citations?user=F6Q
 
 **Haozheng Ma**, Xiaohong Yang, Runyu Fan, Wei Han, Kang He and Lizhe Wang*
 
-Accepted, IEEE Journal of Selected Topics in Applied Earth Observations and Remote Sensing(SCI, IF=4.7)
+Accepted, IEEE Journal of Selected Topics in Applied Earth Observations and Remote Sensing(SCI, IF=4.7, JCR Q1)
 </div>
 </div>
 
@@ -37,11 +37,11 @@ Accepted, IEEE Journal of Selected Topics in Applied Earth Observations and Remo
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">2024</div><img src='images/map500300.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[Area boom for artificial water bodies revealed by long-term high-precision satellite mapping]
+[Prolonged Water-Body Types Dataset of Urban Agglomeration in Central China(1990-2021)]
 
-**Haozheng Ma**, Lizhe Wang*, Xiaohong Yang, Runyu Fan and Kang He
+**Haozheng Ma**, Xiaohong Yang, Runyu Fan, Kang He, and Lizhe Wang*
 
-Pending Submission
+Manuscript submitted, Scientific Data(SCI, IF=5.8, JCR Q1)
 </div>
 </div>
 
