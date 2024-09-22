@@ -27,9 +27,9 @@ author:
   location         : "Wuhan, China"
   employer         :
   pubmed           : 
-  googlescholar    :  # "https://scholar.google.com/citations?user=YOUR_GOOGLE_SCHOLAR_ID"
+  googlescholar    :  "https://scholar.google.com/citations?hl=zh-CN&view_op=list_works&gmla=ALUCkoWBp92RjU13HFSjSr69qf4dlKzoYetMObLdno3gJPO7heW0QW7JVPHETo0K0f-dU-LpzfOOOkW4sHquzvC1wsGvet8&user=pLVzyHEAAAAJ"
   email            : "mahz@cug.edu.cn"
-  researchgate     :  # e.g., "https://www.researchgate.net/profile/yourprofile"
+  researchgate     :  "https://www.researchgate.net/profile/Haozheng-Ma"
   uri              :
   bitbucket        :
   codepen          :
@@ -37,7 +37,7 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : # e.g., "github username"
+  github           : "haozhengma"
   google_plus      :
   keybase          :
   instagram        :
