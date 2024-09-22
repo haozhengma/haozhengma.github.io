@@ -1,4 +1,4 @@
----
+![image](https://github.com/user-attachments/assets/b8849f05-e97d-454f-8cbe-21922be5f27b)---
 permalink: /
 title: ""
 excerpt: ""
@@ -52,7 +52,7 @@ Manuscript submitted, Scientific Data(SCI, IF=5.8, JCR Q1)
 
 Kang He, Yusen Dong, Zhijun Zhang, **Haozheng Ma**, Runyu Fan, and Lizhe Wang
 
-Undergoing Review, IEEE TRANSACTIONS ON GEOSCIENCE AND REMOTE SENSING(SCI, IF=8.2)
+Undergoing Review, IEEE TRANSACTIONS ON GEOSCIENCE AND REMOTE SENSING(SCI, IF=8.2, JCR Q1)
 </div>
 </div>
 
@@ -63,7 +63,7 @@ Undergoing Review, IEEE TRANSACTIONS ON GEOSCIENCE AND REMOTE SENSING(SCI, IF=8.
 
 Runyu Fan, Lizhe Wang*, Haoyu Wang, Wenyue Li, Zijian Xu, Zhaoying Zhou, **Haozheng Ma**, and Ruyi Feng
 
-Undergoing Review, npj Urban Sustainability(SCI, IF=9.1)
+Undergoing Review, npj Urban Sustainability(SCI, IF=9.1, JCR Q1)
 </div>
 </div>
 
