@@ -29,7 +29,7 @@ I am advised by [Prof, Lizhe Wang](https://scholar.google.com/citations?user=F6Q
 
 **Haozheng Ma**, Xiaohong Yang, Runyu Fan, Wei Han, Kang He and Lizhe Wang*
 
-Accepted, IEEE Journal of Selected Topics in Applied Earth Observations and Remote Sensing(SCI, IF=4.7, JCR Q1)
+Accepted, IEEE Journal of Selected Topics in Applied Earth Observations and Remote Sensing(SCI, IF=4.7, JCR Q1) \href{https://doi.org/10.1109/JSTARS.2024.3459916}{10.1109/JSTARS.2024.3459916}
 </div>
 </div>
 
