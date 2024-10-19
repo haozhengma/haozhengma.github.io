@@ -6,9 +6,15 @@ main:
   - title: "Publications"
     url: "/#-publications"
 
+  - title: "Academic Report"
+    url: "/#-academic-report"
+
+  - title: "Research projects"
+    url: "/#-research-projects"
+
   - title: "Honors and Awards"
     url: "/#-honors-and-awards"
-
+    
   - title: "Educations"
     url: "/#-educations"
 
