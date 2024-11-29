@@ -52,7 +52,7 @@ Manuscript submitted, Scientific Data(SCI, IF=5.8, JCR Q1)
 
 Kang He, Yusen Dong, Zhijun Zhang, **Haozheng Ma**, Runyu Fan, and Lizhe Wang
 
-Undergoing Review, IEEE TRANSACTIONS ON GEOSCIENCE AND REMOTE SENSING(SCI, IF=8.2, JCR Q1)
+Major Revision, IEEE TRANSACTIONS ON GEOSCIENCE AND REMOTE SENSING(SCI, IF=8.2, JCR Q1)
 </div>
 </div>
 
