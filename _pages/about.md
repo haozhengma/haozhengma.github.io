@@ -41,7 +41,7 @@ Accepted, IEEE Journal of Selected Topics in Applied Earth Observations and Remo
 
 **Haozheng Ma**, Xiaohong Yang, Runyu Fan, Kang He, and Lizhe Wang*
 
-Manuscript submitted, Scientific Data(SCI, IF=5.8, JCR Q1)
+Revision, Scientific Data(SCI, IF=5.8, JCR Q1)
 </div>
 </div>
 
