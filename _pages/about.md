@@ -67,7 +67,7 @@ Undergoing Review, npj Urban Sustainability(SCI, IF=9.1, JCR Q1)
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">2024</div><img src='images/NPJ5-3.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">2024</div><img src='images/JAG5-3.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [Remote sensing image interpretation of geological lithology via a sensitive feature self-aggregation deep fusion network]
