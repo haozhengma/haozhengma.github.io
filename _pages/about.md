@@ -52,7 +52,7 @@ Manuscript submitted, Scientific Data(SCI, IF=5.8, JCR Q1)
 
 Kang He, Yusen Dong, Zhijun Zhang, **Haozheng Ma**, Runyu Fan, and Lizhe Wang
 
-Major Revision, IEEE TRANSACTIONS ON GEOSCIENCE AND REMOTE SENSING(SCI, IF=8.2, JCR Q1)
+Major Revision, IEEE TRANSACTIONS ON GEOSCIENCE AND REMOTE SENSING(SCI, IF=7.5, JCR Q1)
 </div>
 </div>
 
@@ -64,6 +64,17 @@ Major Revision, IEEE TRANSACTIONS ON GEOSCIENCE AND REMOTE SENSING(SCI, IF=8.2, 
 Runyu Fan, Lizhe Wang*, Haoyu Wang, Wenyue Li, Zijian Xu, Zhaoying Zhou, **Haozheng Ma**, and Ruyi Feng
 
 Undergoing Review, npj Urban Sustainability(SCI, IF=9.1, JCR Q1)
+</div>
+</div>
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">2024</div><img src='images/NPJ5-3.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[Remote sensing image interpretation of geological lithology via a sensitive feature self-aggregation deep fusion network]
+
+Kang He, Jie Dong, **Haozheng Ma**, Yujie Cai, Ruyi Feng, Yusen Dong, and Lizhe Wang*
+
+Undergoing Review, International Journal of Applied Earth Observation and Geoinformation(SCI, IF=7.6, JCR Q1)
 </div>
 </div>
 
