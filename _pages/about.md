@@ -37,7 +37,7 @@ Accepted, IEEE Journal of Selected Topics in Applied Earth Observations and Remo
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">2024</div><img src='images/SD53.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[Prolonged Water-Body Types Dataset of Urban Agglomeration in Central China(1990-2021)]
+[Prolonged water body types dataset of urban agglomeration in central China from 1990 to 2021]
 
 **Haozheng Ma**, Xiaohong Yang, Runyu Fan, Kang He, and Lizhe Wang*
 
