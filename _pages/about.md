@@ -101,5 +101,6 @@ Undergoing Review, International Journal of Applied Earth Observation and Geoinf
 - Bachelor of Economics (Double Bachelor Degree), Finance  
 
 # 💻 Internships
-- *2022.03 - 2022.08*, Beijing Shenguang Technology Co., Ltd, Hardware Engineer, Intern, Shenzhen and Beijing, China.
+- *2022.07 - 2022.08*, Beijing Shenguang Technology Co., Ltd(Shenzhen R&D Center), Hardware Engineer, Intern, Shenzhen, China.
+- *2022.03 - 2022.07*, Beijing Shenguang Technology Co., Ltd, Business, Intern, Beijing, China.
 - *2019.07 - 2019.08*, Chipone Technology (Beijing) Co., Ltd, Software Engineer, Intern, Beijing, China.
