@@ -17,7 +17,7 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-I am a master's student from school of [Computer Science](https://cs.cug.edu.cn/), [China University of Geoscience, Wuhan](https://www.cug.edu.cn/). My research interest includes remote sensing image processing, computer vision, deep learning, and multimodal data fusion. You can find my CV [here](https://github.com/haozhengma/haozhengma.github.io/tree/main/files/CV_haozhengma.pdf).
+I am a master's student from school of [Computer Science](https://cs.cug.edu.cn/), [China University of Geoscience, Wuhan](https://www.cug.edu.cn/). My research interest includes remote sensing image processing, computer vision, deep learning, and multimodal data fusion. You can find my CV [here](https://raw.githubusercontent.com/haozhengma/haozhengma.github.io/refs/heads/main/files/CV_haozhengma.pdf).
 
 I am advised by [Prof, Lizhe Wang](https://scholar.google.com/citations?user=F6QzRGAAAAAJ&hl=zh-CN) from [School of Computer Science](https://cs.cug.edu.cn/).
 
