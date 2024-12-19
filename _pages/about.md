@@ -22,7 +22,7 @@ I am a master's student from school of [Computer Science](https://cs.cug.edu.cn/
 I am advised by [Prof, Lizhe Wang](https://scholar.google.com/citations?user=F6QzRGAAAAAJ&hl=zh-CN) from [School of Computer Science](https://cs.cug.edu.cn/).
 
 # 📝 Publications 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">2024</div><img src='images/WSEDM500300.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">JSTARS</div><img src='images/WSEDM500300.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [Refined Water-Body Types Mapping Using a Water-Scene Enhancement Deep Models by Fusing Optical and SAR Images]
@@ -34,7 +34,7 @@ Accepted, IEEE Journal of Selected Topics in Applied Earth Observations and Remo
 </div>
 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">2024</div><img src='images/SD53.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">SDATA</div><img src='images/SD53.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [Prolonged water body types dataset of urban agglomeration in central China from 1990 to 2021]
