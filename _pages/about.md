@@ -42,6 +42,9 @@ Accepted, IEEE Journal of Selected Topics in Applied Earth Observations and Remo
 **Haozheng Ma**, Xiaohong Yang, Runyu Fan, Kang He, and Lizhe Wang*
 
 Revision, Scientific Data(SCI, IF=5.8, JCR Q1)
+
+The dataset can be accessed in Science Data Bank. [link](https://doi.org/10.57760/sciencedb.12990)
+
 </div>
 </div>
 
