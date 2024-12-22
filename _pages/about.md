@@ -90,6 +90,7 @@ Undergoing Review, International Journal of Applied Earth Observation and Geoinf
 - 2023~2024 "Intelligent interpretation of geological environment remote sensing big data" (Hubei Provincial Natural Science Foundation Key Project). Responsible for research on time series water body mapping.
 
 # 🎖 Honors and Awards
+- 2024 Excellent Report Award from 2024 Remote Sensing Science Graduate Salon
 - 2022~2024 Three times First class Academic Scholarship from China University of Geoscience, Wuhan.
 - 2022 Beijing Jiaotong University Excellent Graduation Thesis(top 5%).
 - 2022 Innovation and Entrepreneurship Star from Beijing Jiaotong University(10 out of the BJTU).
