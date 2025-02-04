@@ -48,6 +48,17 @@ The dataset can be accessed in Science Data Bank. [link](https://doi.org/10.5776
 </div>
 </div>
 
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">JAG</div><img src='images/JAG5-3.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[Remote sensing image interpretation of geological lithology via a sensitive feature self-aggregation deep fusion network]
+
+Kang He, Jie Dong, **Haozheng Ma**, Yujie Cai, Ruyi Feng, Yusen Dong, and Lizhe Wang*
+
+Accepted, International Journal of Applied Earth Observation and Geoinformation(SCI, IF=7.6, JCR Q1)
+</div>
+</div>
+
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">2024</div><img src='images/CRFNet500300.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
@@ -67,17 +78,6 @@ Major Revision, IEEE TRANSACTIONS ON GEOSCIENCE AND REMOTE SENSING(SCI, IF=7.5, 
 Runyu Fan, Lizhe Wang*, Haoyu Wang, Wenyue Li, Zijian Xu, Zhaoying Zhou, **Haozheng Ma**, and Ruyi Feng
 
 Undergoing Review, npj Urban Sustainability(SCI, IF=9.1, JCR Q1)
-</div>
-</div>
-
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">2024</div><img src='images/JAG5-3.png' alt="sym" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
-
-[Remote sensing image interpretation of geological lithology via a sensitive feature self-aggregation deep fusion network]
-
-Kang He, Jie Dong, **Haozheng Ma**, Yujie Cai, Ruyi Feng, Yusen Dong, and Lizhe Wang*
-
-Undergoing Review, International Journal of Applied Earth Observation and Geoinformation(SCI, IF=7.6, JCR Q1)
 </div>
 </div>
 
