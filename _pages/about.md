@@ -55,7 +55,7 @@ The dataset can be accessed in Science Data Bank. [link](https://doi.org/10.5776
 
 Kang He, Jie Dong, **Haozheng Ma**, Yujie Cai, Ruyi Feng, Yusen Dong, and Lizhe Wang*
 
-Accepted, International Journal of Applied Earth Observation and Geoinformation(SCI, IF=7.6, JCR Q1)
+Accepted, International Journal of Applied Earth Observation and Geoinformation(SCI, IF=7.6, JCR Q1) [link](https://doi.org/10.1016/j.jag.2025.104384)
 </div>
 </div>
 
