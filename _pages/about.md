@@ -19,8 +19,6 @@ redirect_from:
 
 I am a master's student from school of [Computer Science](https://cs.cug.edu.cn/), [China University of Geosciences, Wuhan](https://www.cug.edu.cn/). My research interest includes remote sensing image processing, computer vision, deep learning, and multimodal data fusion. You can find my CV [here](../files/cv.pdf).
 
-I am advised by [Prof, Lizhe Wang](https://scholar.google.com/citations?user=F6QzRGAAAAAJ&hl=zh-CN) from [School of Computer Science](https://cs.cug.edu.cn/).
-
 # 📝 Publications 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">JSTARS</div><img src='images/WSEDM500300.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
@@ -100,7 +98,7 @@ Undergoing Review, npj Urban Sustainability(SCI, IF=9.1, JCR Q1)
 
 # 📖 Educations
 **China University of Geosciences,Wuhan** 9/2022-present
-- Master of Engineering, Computer Science, GPA: 91.4/100
+- Master of Engineering, Computer Science, GPA: 91.4/100, advised by [Prof, Lizhe Wang](https://scholar.google.com/citations?user=F6QzRGAAAAAJ&hl=zh-CN) and Asso Prof, Xiaohong Yang
 
 **Beijing Jiaotong University** 9/2018-6/2022
 - Bachelor of Engineering, Electrical Engineering, GPA: 3.8/4.0
