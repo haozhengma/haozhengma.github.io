@@ -17,7 +17,7 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-I am a master's student from school of [Computer Science](https://cs.cug.edu.cn/), [China University of Geosciences, Wuhan](https://www.cug.edu.cn/). My research interest includes remote sensing image processing, computer vision, deep learning, and multimodal data fusion. You can find my CV [here](../files/cv.pdf).
+Ready for Next Journey! My research interest includes remote sensing image processing, computer vision, deep learning, and multimodal data fusion. You can find my CV [here](../files/cv.pdf).
 
 # 📝 Publications 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">JSTARS</div><img src='images/WSEDM500300.png' alt="sym" width="100%"></div></div>
