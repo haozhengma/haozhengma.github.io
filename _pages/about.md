@@ -97,7 +97,7 @@ Undergoing Review, npj Urban Sustainability(SCI, IF=9.1, JCR Q1)
 - 2019~2022 Three times Academic Scholarship from Beijing Jiaotong University(top 10%).
 
 # 📖 Educations
-**China University of Geosciences,Wuhan** 9/2022-present
+**China University of Geosciences,Wuhan** 9/2022-6/2025
 - Master of Engineering, Computer Science, GPA: 91.4/100, advised by [Prof. Lizhe Wang](https://scholar.google.com/citations?user=F6QzRGAAAAAJ&hl=zh-CN) and Assoc. Prof. Xiaohong Yang
 
 **Beijing Jiaotong University** 9/2018-6/2022
