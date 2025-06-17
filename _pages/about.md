@@ -91,7 +91,7 @@ Undergoing Review, npj Urban Sustainability(SCI, IF=9.1, JCR Q1)
 
 # 🎖 Honors and Awards
 - 2025 Excellent graduate student from China University of Geosciences, Wuhan.
-- 2025 “Xin Cai” scholarship from Professor Xincai Wu.
+- 2025 “Xin Cai” scholarship (信才奖学金) from Professor Xincai Wu.
 - 2024 Excellent Report Award from 2024 Remote Sensing Science Graduate Salon.
 - 2022~2024 Three times First class Academic Scholarship from China University of Geosciences, Wuhan.
 - 2022 Beijing Jiaotong University Excellent Graduation Thesis(top 5%).
